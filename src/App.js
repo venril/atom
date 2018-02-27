@@ -15,7 +15,7 @@ class App extends Component {
   render() {
     return (
       <div>
-      <Welcome prenom="Sara" nom="Connor" />
+      <Welcome prenom="Satra" nom="Connor" />
       <Test toto="toto" />
       <Welcome prenom="Cahal" nom="Connor" />
       <Welcome prenom="Edith" nom="Connor" />
